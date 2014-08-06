@@ -1,0 +1,7 @@
+mainClass: mail.Mail
+description: A simple mail system.
+help: %UN%Vit Mail Plugin
+help: %SC% mail <To> <Message>: Sends the given message to the given user.
+help:  
+help: User mail will be checked every time they pm the bot, say a message on the channel the bot is on and join the channel on which the bot resides.
+help:  
